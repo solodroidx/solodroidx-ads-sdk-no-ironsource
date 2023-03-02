@@ -172,7 +172,6 @@ public class AdNetwork {
 
                     case IRONSOURCE:
                     case FAN_BIDDING_IRONSOURCE:
-
                         break;
                 }
                 Log.d(TAG, "[" + adNetwork + "] is selected as Primary Ads");
@@ -237,7 +236,6 @@ public class AdNetwork {
 
                     case IRONSOURCE:
                     case FAN_BIDDING_IRONSOURCE:
-
                         break;
 
                     case NONE:
